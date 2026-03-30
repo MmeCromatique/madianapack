@@ -1,6 +1,6 @@
 name = "mizunos"
 filename = "Mizunos-16-Craft-JE_1.20.4-1.0_230105.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/iddwhqrdvyaehz16f2cx7/Mizunos-16-Craft-JE_1.20.4-1.0_230105.zip?rlkey=q3wlpri6p044735yn46nbw7gx&st=vu2eqj6j&dl=1"
