@@ -1,0 +1,13 @@
+name = "Overgrown Flowery Hotbar"
+filename = "Overgrown Flowery Hotbar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/coUTm32c/versions/tYw8Wax2/Overgrown%20Flowery%20Hotbar.zip"
+hash-format = "sha512"
+hash = "bfadb730ccdaecb2128daa9b7d96b1bfb3d9730cdc8cc926ca590e8c5de7fdb57e30cf96ed3aff6272bc4848d062059d04cca5520494eb2f9ef10363d63df334"
+
+[update]
+[update.modrinth]
+mod-id = "coUTm32c"
+version = "tYw8Wax2"

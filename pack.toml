@@ -1,0 +1,13 @@
+name = "Madianapack"
+author = "MmeCromatique"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3b6fb332d02a25f92165a05c79b032d359e171e228d0f57bb17a4f059e10c1c6"
+
+[versions]
+fabric = "0.18.5"
+minecraft = "26.1"

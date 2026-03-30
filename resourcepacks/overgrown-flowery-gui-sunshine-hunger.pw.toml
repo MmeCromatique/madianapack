@@ -1,0 +1,13 @@
+name = "Overgrown Flowery GUI - Sunshine Hunger"
+filename = "Overgrown Flowery GUI - Sunshine Hunger.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6phxiS3/versions/DwOsAY80/Overgrown%20Flowery%20GUI%20-%20Sunshine%20Hunger.zip"
+hash-format = "sha512"
+hash = "388e2216a953e02ca32d80e5a4e962b398b16db3f9a9721557ce4190c227a6418c0114fe1d24ff9146adfd90a606670999f5447645d33ecb7de2de2141fb1c1f"
+
+[update]
+[update.modrinth]
+mod-id = "N6phxiS3"
+version = "DwOsAY80"
