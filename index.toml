@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "com.unascribed.unsup.json"
+hash = "6043ae7db123e199b9e66ff2a5d01926b22cbe3bbddfb347f5e8da02a5c9a945"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "319e33f0c095431cac722aec0c44649e7aeed9aa47e87426dc02b78ba1821585"
 metafile = true
@@ -248,3 +252,7 @@ metafile = true
 file = "shaderpacks/astralex.pw.toml"
 hash = "409ff133cb439739037d81226b596dae64bc413f5ba2148fb602b0d80b89479c"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "6e4bbb26e98bdfb138ac34a55ed7ca203b544863ed0d12253920d840fbd8c955"
