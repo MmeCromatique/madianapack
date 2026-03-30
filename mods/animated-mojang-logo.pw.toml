@@ -1,0 +1,13 @@
+name = "Animated Mojang Logo"
+filename = "animated-mojang-logo-2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dWUOweyL/versions/9DcGhot0/animated-mojang-logo-2.1.1.jar"
+hash-format = "sha512"
+hash = "0e14a81932e56f3b8406deff35e92a4f980de11eb880100001df8be72fbaaca9c7a291472ef27b8710ee1f66077fd009258e2d14c1c42682b27a8c74d889f2c6"
+
+[update]
+[update.modrinth]
+mod-id = "dWUOweyL"
+version = "9DcGhot0"

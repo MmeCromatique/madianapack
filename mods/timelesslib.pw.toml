@@ -1,0 +1,13 @@
+name = "TimelessLib"
+filename = "timelesslib-1.0.20-fabric-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vKDSSPpv/versions/dvb6cZEB/timelesslib-1.0.20-fabric-26.1.jar"
+hash-format = "sha512"
+hash = "6c06e25818f3a387fd8dffa2814b75bea70b0b138a87c7b8c80666cc757ede5f7efe25be2e0dfc1fbbc5fd28a29199a953f81434b9945b2547d65e22c73c4123"
+
+[update]
+[update.modrinth]
+mod-id = "vKDSSPpv"
+version = "dvb6cZEB"
