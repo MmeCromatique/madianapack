@@ -14,11 +14,6 @@ hash = "319e33f0c095431cac722aec0c44649e7aeed9aa47e87426dc02b78ba1821585"
 metafile = true
 
 [[files]]
-file = "mods/animated-mojang-logo.pw.toml"
-hash = "8219b42ba900f43abb26bfaf8b5fa52dcaaa4b7bc4c59934fd0f9b4734deb5b8"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "59540e13a72e2980e39febb13016289db5c56f00ff489d4faff0558ddbc99d19"
 metafile = true
