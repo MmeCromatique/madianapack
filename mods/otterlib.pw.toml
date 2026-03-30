@@ -1,0 +1,13 @@
+name = "OtterLib"
+filename = "otterlib-0.3.0.0+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zVVpzurY/versions/aLCe8TQU/otterlib-0.3.0.0%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "e1ec28c7178487f04c5d0d9e8a1b730bf146b833cc2ffc021bbad44a4e975bf79a8568da3896bdfac054ad15176808de8a278562ac37884e57a752821cc719dc"
+
+[update]
+[update.modrinth]
+mod-id = "zVVpzurY"
+version = "aLCe8TQU"

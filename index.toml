@@ -174,6 +174,11 @@ hash = "2779e16ea913de83ba1242a81b099a0f4fcb3d209c4ab2d3f3a6edf3d9a0d5dc"
 metafile = true
 
 [[files]]
+file = "mods/otterlib.pw.toml"
+hash = "2a8fc84868e3b15c1daca4809f134d2a030df85f33636e4c23eb7114c6cf5aa1"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "62f634fbbb4a92fadff9f0d0a0a651bd3a7cef85960ee2b0de3298d27700b90b"
 metafile = true
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/silk.pw.toml"
 hash = "e522aad0eb90e59b654a80056f6a5b4609602e2266d307b028930a2ec1703954"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "b867648cc4f32c5b641219bf64741dc47a73d408a510cca8e45c967f0f136c05"
 metafile = true
 
 [[files]]
