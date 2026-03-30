@@ -194,6 +194,11 @@ hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
 
 [[files]]
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "714516b70c13ed31f6b5421f691199820431cd569d0d1feb64bf2e370a23d9b2"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
 metafile = true
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c0e9bba2a56ba262ee367e16eea765045c8a27082942587f13010fe513a4d88e"
+hash = "78406fd34d2358b9dcc210b183b30ac2c544f4ef547a68c55cf91b5fa4bad329"
 
 [[files]]
 file = "resourcepacks/extra-flowery-gui.pw.toml"
@@ -265,6 +270,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/modern-mizunos.pw.toml"
 hash = "6129953229fca86f427a7f2ae1daf6ca3e13ab35c6dba10ae5b4c50b16ceac3e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mods/vaulted-end.pw.toml"
+hash = "99443fabafb776881ee0694d0be6d0fe2868707aa892ad9cc823ec14b4784ebe"
 metafile = true
 
 [[files]]

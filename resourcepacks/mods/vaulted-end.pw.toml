@@ -1,0 +1,8 @@
+name = "Vaulted-End"
+filename = "resource_pack.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/5ksgk3q7wcafasozvc43v/resource_pack.zip?rlkey=2i56hktpcerful85brtx320fz&st=mteroe6n&dl=1"
+hash-format = "sha256"
+hash = "d75e03bcfb0b14ec36df92cc7b2bbab91fc7120c03dc24a3f650b6707c6073cf"
