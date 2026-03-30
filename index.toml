@@ -229,11 +229,6 @@ hash = "62d43ccdf4053c610f002c26a0dd28631a7a45f68d3478b1ff8299ad36cf165a"
 metafile = true
 
 [[files]]
-file = "mods/tiny-takeover-x-punchy.pw.toml"
-hash = "8c6d073be46052c2afd321d0c392efda466e76569116deac6b9cd3c9ac9b2c05"
-metafile = true
-
-[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "8def34c20cf0ad78f47ee553382324ed11c09db4b0498ffd1e48f876f7272033"
 metafile = true
