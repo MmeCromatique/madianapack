@@ -184,11 +184,6 @@ hash = "5f2bf7278ae6470e9402e50ee96a729e18a313ad423ddecb7a34930ba9e71c7c"
 metafile = true
 
 [[files]]
-file = "mods/punchy-fpa.pw.toml"
-hash = "b314b30992b7a0ec166603e2eef400973030a535da9f6786ff359a15562a5da8"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8be1a7738add7477efe2f0fa53bc13b4b7839f086631d657bcd121a4354041dc"
 metafile = true
