@@ -233,8 +233,8 @@ hash = "96d222c9937194d24deea39fea72746eebc6c9498f9bb018e6fd39f8cc039652"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizuno.pw.toml"
-hash = "348da6bbb6136c5b0435eb12a127cc2850bdce564d81bac43a6920cbf31378ee"
+file = "resourcepacks/mizunos.pw.toml"
+hash = "b4b3fc5258b61bb7ab9caf6df205911036253f6e7192e209076431b90b381476"
 metafile = true
 
 [[files]]

@@ -1,8 +1,8 @@
-name = "Mizuno"
+name = "mizunos"
 filename = "Mizunos-16-Craft-JE_1.20.4-1.0_230105.zip"
 side = "both"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/07tleq1gpugr0xr03qwc6/Mizunos-16-Craft-JE_1.20.4-1.0_230105.zip?rlkey=224gegyg88llmavno4nyavhb8&st=fqes7a76&dl=1"
 hash-format = "sha256"
-hash = "fc2ef5c6164b35f9ae5244451b9519198bb56ed8d078d8dd60add762640eb0ec"
+hash = "80e39c4009032d978f107b84b3a344b63f39f309cabbf3cd17a215c1952b0953"
