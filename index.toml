@@ -268,6 +268,10 @@ hash = "2c0d5cdb9f27993fbd844b2e93b38d72d98e915aa20155c99ff687649e6c76e2"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "df55885cd64ed2280a127396fa276cb45920dc470f46dad70f6af20fb15ff158"
+
+[[files]]
 file = "shaderpacks/astralex.pw.toml"
 hash = "409ff133cb439739037d81226b596dae64bc413f5ba2148fb602b0d80b89479c"
 metafile = true
