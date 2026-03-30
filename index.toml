@@ -189,11 +189,6 @@ hash = "8be1a7738add7477efe2f0fa53bc13b4b7839f086631d657bcd121a4354041dc"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "84ed0655a8fcc13bfe59c837f7ea93ab855a381961ff54eaf35a13deb5edf509"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
