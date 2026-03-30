@@ -54,6 +54,11 @@ hash = "94e45b32e216ff297f1abb00019b6bb8ee6a7787e682996e32307fb2e18a37ea"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "aea38afd0bfaaed33a36857a0d7ee21451b24fc4b6192930a02395487edf2698"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "86be9305d2f8355d775b813fac4651c92570f11154d743b098c563725ad65070"
 metafile = true
@@ -201,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "fbe51395401ce68d9933a65fbcb4ed8cda82ac88d4afd79a5740116114d15949"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "8def34c20cf0ad78f47ee553382324ed11c09db4b0498ffd1e48f876f7272033"
 metafile = true
 
 [[files]]
