@@ -288,11 +288,6 @@ hash = "6129953229fca86f427a7f2ae1daf6ca3e13ab35c6dba10ae5b4c50b16ceac3e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mods/vaulted-end.pw.toml"
-hash = "99443fabafb776881ee0694d0be6d0fe2868707aa892ad9cc823ec14b4784ebe"
-metafile = true
-
-[[files]]
 file = "resourcepacks/overgrown-flowery-gui-sunshine-hunger.pw.toml"
 hash = "a8ee6ff180103fca9a4f3165905945ea0dcf851f2087934b3668b324264da421"
 metafile = true
@@ -305,6 +300,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/overgrown-flowery-hotbar.pw.toml"
 hash = "2c0d5cdb9f27993fbd844b2e93b38d72d98e915aa20155c99ff687649e6c76e2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vaulted-end.pw.toml"
+hash = "99443fabafb776881ee0694d0be6d0fe2868707aa892ad9cc823ec14b4784ebe"
 metafile = true
 
 [[files]]
