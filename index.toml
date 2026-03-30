@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c56b7d60b2918a58219d92497bedb570710bb61522ee64c48c300c69c1040fe0"
+hash = "05689ae5ca0f28b2f2fd686ca6b291696c729a609710ee6f2b086f4be19ba27b"
 
 [[files]]
 file = "resourcepacks/extra-flowery-gui.pw.toml"
