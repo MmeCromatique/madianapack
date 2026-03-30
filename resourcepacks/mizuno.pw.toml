@@ -1,8 +1,8 @@
 name = "Mizuno"
 filename = "Mizuno\\'s+16+Craft+JE_1.20.4-1.0_230105.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://download2271.mediafire.com/zu30bogki0kgq3sZiskgPE4XCYUd4uT1345yFU34_QCsWJxHkEdU_FOY4D0brhsYAV6A6g55BxaapaIDkOuOLjI6An24fPBmtRkf80D1ljqC8KjrIU_XfO5UDwUo5b-dY_fingcxE9kwgYL2tx5qeglE6Iy3XyblIY4x6jUqzhw5cg/42pqrtiwkmali5j/Mizuno%5C%27s+16+Craft+JE_1.20.4-1.0_230105.zip"
 hash-format = "sha256"
-hash = "fc2ef5c6164b35f9ae5244451b9519198bb56ed8d078d8dd60add762640eb0ec"
+hash = "7b226f9ad22af643273dd63b59a3ff669e69ef0f8288b7ba58b23a782044e8d9"
