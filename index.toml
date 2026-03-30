@@ -228,12 +228,13 @@ file = "options.txt"
 hash = "c56b7d60b2918a58219d92497bedb570710bb61522ee64c48c300c69c1040fe0"
 
 [[files]]
-file = "resourcepacks/Mizunos 16 Craft JE_1.20.4-1.0_230105.zip"
-hash = "fc2ef5c6164b35f9ae5244451b9519198bb56ed8d078d8dd60add762640eb0ec"
-
-[[files]]
 file = "resourcepacks/extra-flowery-gui.pw.toml"
 hash = "96d222c9937194d24deea39fea72746eebc6c9498f9bb018e6fd39f8cc039652"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno.pw.toml"
+hash = "3f9f868f5681b2370f4c0bfe118d560872ebe0f6ebbeeb60134e00714b49d044"
 metafile = true
 
 [[files]]
