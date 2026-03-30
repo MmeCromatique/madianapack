@@ -1,6 +1,6 @@
 name = "Vaulted-End"
 filename = "resource_pack.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/5ksgk3q7wcafasozvc43v/resource_pack.zip?rlkey=2i56hktpcerful85brtx320fz&st=mteroe6n&dl=1"
