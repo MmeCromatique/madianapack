@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "98170dd1287f8fc155993b056b6729e008338cf8a53bb82ea0853c23e18d0474"
+hash = "cee364130ff32056f1507d37211179753e2752d60c68acdf8b75eb132f2fac2d"
 
 [[files]]
 file = "resourcepacks/extra-flowery-gui.pw.toml"
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip.txt"
-hash = "4c784d65cf5b0f687921eca40cf375b45ef7f5e7d78f2201658fc2e90f48daec"
+hash = "a62dbacc5088f91f09b5b776740421c912f5b9c24bcb9a904ebd45be5b2b0cdb"
 
 [[files]]
 file = "unsup.ini"
