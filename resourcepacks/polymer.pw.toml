@@ -1,0 +1,8 @@
+name = "polymer"
+filename = "9-resource_pack.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/5ksgk3q7wcafasozvc43v/resource_pack.zip?rlkey=2i56hktpcerful85brtx320fz&st=0f3n0p8y&dl=1"
+hash-format = "sha256"
+hash = "2a74f34604bace7fdeb94091acc5cb54ee0d07775289cb28520501873f3d620c"

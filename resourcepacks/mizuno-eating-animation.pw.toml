@@ -1,0 +1,13 @@
+name = "Mizuno Eating Animation"
+filename = "Mizuno Eating Animation.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oWTgPt6N/versions/jBJp5d1i/Mizuno%20Eating%20Animation.zip"
+hash-format = "sha512"
+hash = "bacf0e382761ffabe1a528b6c8e7a08e9c6e01dca9fca6fb9ca23be462f26d1ecbf59c86b46c1cc444909008a1334795b1304fe55dfa5b8eca3651848ec10a8b"
+
+[update]
+[update.modrinth]
+mod-id = "oWTgPt6N"
+version = "jBJp5d1i"

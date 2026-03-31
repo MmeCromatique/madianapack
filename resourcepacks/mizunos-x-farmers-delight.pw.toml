@@ -1,0 +1,13 @@
+name = "Mizuno's x Farmer's Delight"
+filename = "Mizuno's x Farmer's Delight.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTtnGD6z/versions/aIlKHw5s/Mizuno%27s%20x%20Farmer%27s%20Delight.zip"
+hash-format = "sha512"
+hash = "b1abb28fdbe6887e28c3c8e825a2aee63a7c14a8b246a5d563cb560f334bd3b0ed8116d0779b7c5a9c5f05eac5e15ff46522b85f6aaed44fb40d60a79f89b68c"
+
+[update]
+[update.modrinth]
+mod-id = "XTtnGD6z"
+version = "aIlKHw5s"

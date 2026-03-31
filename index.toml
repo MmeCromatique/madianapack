@@ -268,6 +268,16 @@ hash = "96d222c9937194d24deea39fea72746eebc6c9498f9bb018e6fd39f8cc039652"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mizuno-eating-animation.pw.toml"
+hash = "3f47aa55f2bb4349aa8fe448879f088cc2837d2516506b699d0e4014c7273d5c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-x-farmers-delight.pw.toml"
+hash = "613d0de9ade5a3974247e76d356a2e92e75f1b7e1630284619f6568dcde27847"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mizunos.pw.toml"
 hash = "96f2c325c4206e5811238c0f6d6768f648fcc2d307085fca7f5e65ed002ec601"
 metafile = true
@@ -290,6 +300,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/overgrown-flowery-hotbar.pw.toml"
 hash = "2c0d5cdb9f27993fbd844b2e93b38d72d98e915aa20155c99ff687649e6c76e2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/polymer.pw.toml"
+hash = "ec45881d25e5d8c4ab5fe9e8102adb1f53fb156c3db05a2388532ed32d15b64f"
 metafile = true
 
 [[files]]
