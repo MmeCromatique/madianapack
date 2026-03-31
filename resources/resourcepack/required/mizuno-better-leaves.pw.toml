@@ -1,0 +1,13 @@
+name = "Mizuno Better Leaves"
+filename = "9 Mizuno Better Leaves 2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aLVbJPY1/versions/Ti6TmmaK/Mizuno%20Better%20Leaves%202.1.zip"
+hash-format = "sha512"
+hash = "95c8e2f6676021021dc3e34bd520a7380a8a050c1bc7f95ef97f6dbcaad09f4667348ed5f7912d1a465b9883a77b9c628210e85146ff9222fa9e164c84df3c5c"
+
+[update]
+[update.modrinth]
+mod-id = "aLVbJPY1"
+version = "Ti6TmmaK"

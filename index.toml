@@ -294,6 +294,11 @@ hash = "d3ce24e80890287c953d73c8e82a519cde48113a1a84c98290743f86c479a987"
 metafile = true
 
 [[files]]
+file = "resources/resourcepack/required/mizuno-better-leaves.pw.toml"
+hash = "b51520c8ec955110d82b0465467b0bd5c09c3574c662063f0a5cec131281ebbf"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/required/mizuno-eating-animation.pw.toml"
 hash = "c6e9a4497257118bb543399f616ea56f522ce130f3a0fb6464c687f56afff20f"
 metafile = true
@@ -330,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/polymer.pw.toml"
-hash = "5a5d1bd818ec486e74ef165855c1d1f09a937f7d129e15e05f1f943fe41bed63"
+hash = "289bddcc77682d19a2aa1777a3bcb7f206df389a7a15cd29f887a9bfb4c28e6d"
 metafile = true
 
 [[files]]
