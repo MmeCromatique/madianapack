@@ -1,8 +1,0 @@
-name = "worldedit"
-filename = "worldedit-fabric-mc26.1-7.4.2-SNAPSHOT-dist.jar"
-side = "both"
-
-[download]
-url = "https://ci.enginehub.org/repository/download/bt10/28752:id/worldedit-fabric-mc26.1-7.4.2-SNAPSHOT-dist.jar?branch=mc/26.1&guest=1"
-hash-format = "sha256"
-hash = "74249b423cd203647ef8ec63425eb0da239014e383b21c98df4e38c62c992702"
