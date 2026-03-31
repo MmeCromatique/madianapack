@@ -64,11 +64,6 @@ hash = "86be9305d2f8355d775b813fac4651c92570f11154d743b098c563725ad65070"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "fa802e15ca289069b01b1a45c328a8201947e6a146f3fc1445d5ee622fa3c115"
-metafile = true
-
-[[files]]
 file = "mods/disable-portal-checks.pw.toml"
 hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
 metafile = true
