@@ -89,6 +89,11 @@ hash = "c55425a9266cca6c41ca8712cd056cee966c456db412fee9c6a12f90c2534cef"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "c5852abf53acedfc29f61c7617fa38a7a3f52cf21ecd299cd4374e1f7437b7c7"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4d2e45eddc1d31e5e1f0c7fc5a949a29b39e64d7a246e0d5a5e2736f5d517d1c"
 metafile = true
