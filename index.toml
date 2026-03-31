@@ -204,6 +204,11 @@ hash = "d16f2d49c73cfbf63d9951c05b6453632d4f31ed3bd95024d1a3646ec3c983f2"
 metafile = true
 
 [[files]]
+file = "mods/polymer-qol.pw.toml"
+hash = "878b24a494c4e6d0783bb2b9f5afecd9c11313caa1ec80ce30216597a79c11e2"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "5f2bf7278ae6470e9402e50ee96a729e18a313ad423ddecb7a34930ba9e71c7c"
 metafile = true
