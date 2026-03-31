@@ -1,3 +1,0 @@
-resourcePacks:["vanilla","$polymer-resources","file/Mizunos-16-Craft-JE_1.20.4-1.0_230105.zip","file/Modern Mizunos v0.5.2.zip","file/Overgrown Flowery GUI.zip","file/Overgrown Flowery Hotbar.zip","file/Extra Flowery GUI.zip","file/Overgrown Flowery GUI - Sunshine Hunger.zip","file/resource_pack.zip"]
-renderDistance:16
-fov:0.5
