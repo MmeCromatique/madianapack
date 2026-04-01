@@ -134,6 +134,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "b1d2cc1f8de8bec5ac7f29ffb867216f7ca2b27cdd7ce5369efaf142763fa955"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
 metafile = true
