@@ -5,8 +5,12 @@ file = "com.unascribed.unsup.json"
 hash = "6043ae7db123e199b9e66ff2a5d01926b22cbe3bbddfb347f5e8da02a5c9a945"
 
 [[files]]
+file = "config/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+hash = "1490399c07a19ddcaa220dd301b90336e14314e35a576d5bc294bf914ac4cd5f"
+
+[[files]]
 file = "config/iris.properties"
-hash = "53835c5b448e12ef5957e00c745a71f6829075fa2c9f85ba79aa558d2d81cdc9"
+hash = "d841f017c25d3ee1c1cf1cec324644711cfe2417e583a192e37bb37b9f8983da"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -111,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c7591ee366f9b0e5744de7e8c2ec53aeaf6e144fdded761279ad84abf8542285"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "ff52d093b7eb904e076efac1a26971eaa408d6bcbc2f2faefc762e436743f1de"
 metafile = true
 
 [[files]]
@@ -380,6 +389,11 @@ hash = "df55885cd64ed2280a127396fa276cb45920dc470f46dad70f6af20fb15ff158"
 [[files]]
 file = "shaderpacks/astralex.pw.toml"
 hash = "409ff133cb439739037d81226b596dae64bc413f5ba2148fb602b0d80b89479c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]
