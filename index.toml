@@ -6,11 +6,11 @@ hash = "6043ae7db123e199b9e66ff2a5d01926b22cbe3bbddfb347f5e8da02a5c9a945"
 
 [[files]]
 file = "config/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
-hash = "1490399c07a19ddcaa220dd301b90336e14314e35a576d5bc294bf914ac4cd5f"
+hash = "b9eed20cf77c3c13d9bb8463c98749ca4dcaa27ad8330bf7931848ac770431de"
 
 [[files]]
 file = "config/iris.properties"
-hash = "d841f017c25d3ee1c1cf1cec324644711cfe2417e583a192e37bb37b9f8983da"
+hash = "6663700cdd8dbeddfcf59461e001788af7532fd6e511a62b7addd1f636fcaea2"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -388,7 +388,7 @@ hash = "df55885cd64ed2280a127396fa276cb45920dc470f46dad70f6af20fb15ff158"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
-hash = "d168e2ad89e5a8d51347c9506983fe9fd7542379d46d4a1fca6095c3c75ed081"
+hash = "672d248e844e214ec1cb287b6846e19679e1d5368b482973e2b6488ff3ff85f6"
 
 [[files]]
 file = "shaderpacks/astralex.pw.toml"
