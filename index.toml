@@ -387,6 +387,10 @@ file = "servers.dat"
 hash = "df55885cd64ed2280a127396fa276cb45920dc470f46dad70f6af20fb15ff158"
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+hash = "d168e2ad89e5a8d51347c9506983fe9fd7542379d46d4a1fca6095c3c75ed081"
+
+[[files]]
 file = "shaderpacks/astralex.pw.toml"
 hash = "409ff133cb439739037d81226b596dae64bc413f5ba2148fb602b0d80b89479c"
 metafile = true
