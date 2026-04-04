@@ -145,10 +145,6 @@ file = "emotes/cool sit.emotecraft"
 hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
 
 [[files]]
-file = "emotes/cool_sit.json"
-hash = "00ea3c4adc6c77cfcffafbba0c3fe44394f050860dfed78cc1fea8fa6970ba6a"
-
-[[files]]
 file = "emotes/cross.json"
 hash = "5b7a997c01df8cc4e6fee0447956e7553899316af632b65145a98d81877d919f"
 
@@ -227,10 +223,6 @@ hash = "c4d18b8359744e348641ac8a9bd115edd25921d3040c5ff361dcf78acf786840"
 [[files]]
 file = "emotes/lean.emotecraft"
 hash = "7f350aea4553ad0ddbd4296c430a24a0e93361c8653a03bd7b2604d1fec052bf"
-
-[[files]]
-file = "emotes/lean.json"
-hash = "94cd2440ecf27c0d7ec0c97a9cbcbc68a9040b1055230287796487aeb9b42b44"
 
 [[files]]
 file = "emotes/lejat.json"
