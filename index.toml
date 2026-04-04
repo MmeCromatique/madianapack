@@ -158,6 +158,11 @@ hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "e16c6b73d3c5cef51c29ff65c0f5823d4d07b80f0735eee350a9a07518d3d204"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "acfe3334806f51af695755a79214b6ba646674038db963b8ef4c8ce99488ece0"
 metafile = true
@@ -185,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ece202c9d736d9ba378b618d07eee905f1f7d4a94e69e9b759a88813bd2d7566"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
 metafile = true
 
 [[files]]
