@@ -141,8 +141,16 @@ file = "emotes/club penguin dance.emotecraft"
 hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
 
 [[files]]
+file = "emotes/club_penguin_dance.json"
+hash = "91aeba791641240d734179fb8ed3365fa113aaf472144dc5c4f392ee048ebc26"
+
+[[files]]
 file = "emotes/cool sit.emotecraft"
 hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
+
+[[files]]
+file = "emotes/cool_sit.json"
+hash = "00ea3c4adc6c77cfcffafbba0c3fe44394f050860dfed78cc1fea8fa6970ba6a"
 
 [[files]]
 file = "emotes/cross.json"
@@ -223,6 +231,10 @@ hash = "263ef58a14c9cb3bab68f3bc925924bf30fd4ac6c20ece7608241b9480a042fa"
 [[files]]
 file = "emotes/lean.emotecraft"
 hash = "7f350aea4553ad0ddbd4296c430a24a0e93361c8653a03bd7b2604d1fec052bf"
+
+[[files]]
+file = "emotes/lean.json"
+hash = "94cd2440ecf27c0d7ec0c97a9cbcbc68a9040b1055230287796487aeb9b42b44"
 
 [[files]]
 file = "emotes/lejat.json"
