@@ -1,0 +1,13 @@
+name = "Bedrock Bridging"
+filename = "bedrock-bridging-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DVJU77KJ/versions/VvYWE4T4/bedrock-bridging-1.2.jar"
+hash-format = "sha512"
+hash = "3f08f31613f08742ee3c74d8b99156589ff7cd3071e2deb1b6023d5a760ec8193365e082eb6f0ffe1d9a76de1e5cd3fdc131acd6240d850eb4b9ccc6c1572849"
+
+[update]
+[update.modrinth]
+mod-id = "DVJU77KJ"
+version = "VvYWE4T4"

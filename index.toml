@@ -28,6 +28,11 @@ hash = "960a13c6319887ad7bfd3d1081b6f95d34e80543332a109df32971d4dceb660f"
 metafile = true
 
 [[files]]
+file = "mods/bedrock-bridging.pw.toml"
+hash = "c29dae916b066cfda9473f5f895d69d65299cd0bea96d7bb6b46b5581b302053"
+metafile = true
+
+[[files]]
 file = "mods/bedrock-cauldrons.pw.toml"
 hash = "4bec83356e15e3a893b3eb274cfd6d25eaebf1dca401a456705542e3ceb15599"
 metafile = true
