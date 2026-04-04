@@ -198,6 +198,11 @@ hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "4faca2e0642f517079f46d0ec9336a3c2ea075fad5dc359898983065fee6645a"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5d6f0a4be3f5bae00d50c86f5804a5e8c6dd6b833218f6305dfa74ed186225ee"
 metafile = true
