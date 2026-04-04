@@ -5,6 +5,10 @@ file = "com.unascribed.unsup.json"
 hash = "6043ae7db123e199b9e66ff2a5d01926b22cbe3bbddfb347f5e8da02a5c9a945"
 
 [[files]]
+file = "config/BBEConfig.json"
+hash = "caea7cb0c273c58271751b38e85f9aad5b4154e4c8fa5627d80ab9a1baafbc35"
+
+[[files]]
 file = "config/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
 hash = "b9eed20cf77c3c13d9bb8463c98749ca4dcaa27ad8330bf7931848ac770431de"
 
