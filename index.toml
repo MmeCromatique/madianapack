@@ -18,7 +18,7 @@ hash = "6663700cdd8dbeddfcf59461e001788af7532fd6e511a62b7addd1f636fcaea2"
 
 [[files]]
 file = "emotes/Ascend.emotecraft"
-hash = "c8e4acb44d5abc4efc0cda1d863c08ebaa29a9152e037ca1448d03541b4196d3"
+hash = "836dbad6eeccb5a8d891c8324ef5cc0adc4a7e0002ac2a10f0d1e85d3045fca5"
 
 [[files]]
 file = "emotes/BPS_bloop.json"
@@ -26,23 +26,23 @@ hash = "00edeb240cbeed05fac31886ab268ef98958e2a9127d9efec36afe6af409fa12"
 
 [[files]]
 file = "emotes/Default Dance(loop).emotecraft"
-hash = "dcce87015d67113b2cd5b67bf425bfd90f7fd64d4bce8ac6b0711699d3c01aa1"
+hash = "e11b6bec35923f7ab144f8e76560eaa08f67c973da569b54d1394f7fff1a7580"
 
 [[files]]
 file = "emotes/Default Dance.emotecraft"
-hash = "6fcdbe2b96ddfde95ecc0b3999ed6673757b02952b1df8a90324c2f070d8e5d9"
+hash = "4c177163a3beeac861cc904e34703712d09a1db6cac0bb1227d2f665fcd81fe6"
 
 [[files]]
 file = "emotes/Dragged down.emotecraft"
-hash = "326772d82879deabae6b0fa4eda8606898766eeef26ee8aec0799d9e05dcd74f"
+hash = "ec7bcd46ff80bf334056fa55eb5b2db09b9dbbcd75c018dbc0bc7480162b0166"
 
 [[files]]
 file = "emotes/Drinking liquid.emotecraft"
-hash = "1c545abb34c17cd0ac897101ce267ea37b58b90c23c147effc8a7a4a64f5b5a9"
+hash = "1c09174b336abc2936d21e0098140e0f02dfe2584e9107084796d5751c5f1dd3"
 
 [[files]]
 file = "emotes/Emerge.emotecraft"
-hash = "d7cc085f1531f6f56112ad0f1053e677cbe376ce2f24a4cc633740a3d1253433"
+hash = "b0312109585cb76a4761a59f4b5c3e3d60420aa8adbe88d751b1740003f955e0"
 
 [[files]]
 file = "emotes/F.json"
@@ -50,27 +50,27 @@ hash = "935ab98322109d4ab3b5594173543c9c46437218be99b1758f904bc4db117ede"
 
 [[files]]
 file = "emotes/Floss.emotecraft"
-hash = "2e48df2af9c398822e3ad145dbae395ecf898455bbdace40e08bbec55f103ae4"
+hash = "336bfc6d1cd132e07a2ab18455910fe3477fca9443f942590317aef289f38564"
 
 [[files]]
 file = "emotes/Front Lying.emotecraft"
-hash = "3b63b69587fe0c959b9fffec6460389a8bea287b76d3deb803f2d69b206b94ed"
+hash = "4d480e6b76fe3e74578c5766dd96f312f8dc492f47721807320bb953c81eb207"
 
 [[files]]
 file = "emotes/Front flip.emotecraft"
-hash = "28e9f5654d305b4d5c5f350f7c57c4f487f6e7a56ce8b38b420e88ee65886f59"
+hash = "315c7a12834872c9cb58c89c4b2fc6fd8eb32bba820b1ea277ed5c635e6cff84"
 
 [[files]]
 file = "emotes/Get Griddy.emotecraft"
-hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
+hash = "a6bf59c6d35e231cc270254ca123ffe132cc60d2e67489bfad50809939eb17ae"
 
 [[files]]
 file = "emotes/GigaChad.emotecraft"
-hash = "606397e6f922cc6bb2b2e8b5fedd0c47dbac108ff4a6336efe07960c260b4816"
+hash = "4311fc4a388fdcff26132336e635a28efbb7d2995ead6fab30829194ce5853ca"
 
 [[files]]
 file = "emotes/Hide (Hide and seek - barrel).emotecraft"
-hash = "a7ff887d3d86e401ba0b26aae27ea252693aba0ec172469b1fd27694d2b8c008"
+hash = "dc1125211c210a2827f0ae8300eb04c17a3f369ac0669f4972345e4a4630aaca"
 
 [[files]]
 file = "emotes/Inspect.json"
@@ -78,71 +78,71 @@ hash = "d1d070ffc05b8a25b5e221ac3620d6cd769fc7c4f1621664f9a6913da7840663"
 
 [[files]]
 file = "emotes/Jackson.emotecraft"
-hash = "a6bf83666c287d23c795d718bfd78cbb6f4725fee1de678c5908947e2ed357ef"
+hash = "5012eef8ddc690f4879ac900493367d30d0844e7583514b23651f7046d050fa6"
 
 [[files]]
 file = "emotes/Kratos Falling.emotecraft"
-hash = "b5e0201df7073bb86969c7ad286ea586e3e8463aa2140558599b04bde64074e9"
+hash = "1edaa3ef348f849c1f8001d5734949464c1727aa75c88a13996c34a1108fe3fb"
 
 [[files]]
 file = "emotes/Lay on back.emotecraft"
-hash = "bfbd9b87c4ac3227c771eb19d34e72cce916eba7ed447d8ca0aed0f14b616218"
+hash = "383753bdb8af372d70ac04c4d652fc979b350f2970457108d2bebd6751da3d45"
 
 [[files]]
 file = "emotes/Pillar man.emotecraft"
-hash = "4a05841798d4fd8c79f10d1f068b28c3269715cee1ab9c8006a32b239704c52e"
+hash = "c5676c950402762eabefae74f5db680636a47ae8b51f77f947ba5f7df6a1864a"
 
 [[files]]
 file = "emotes/Pokedance.emotecraft"
-hash = "1a7a11ad50e1888fc53b8a31a65c2a7289fa360b2dddc0796aa3faf3441e4bb0"
+hash = "8f58efb04c24938bc5ea2981da5b2d0ba48962dec6a0dcb6433e45f092948666"
 
 [[files]]
 file = "emotes/Praise the sun.emotecraft"
-hash = "dc4d632938356b7a5ecf31e05ea3392c9bd660b7cee05eb982872c3ee1f7d5fc"
+hash = "bda5a97f571a6baa520ed41a3da67e4e06401e68dff3889374c50c4ae7140fc4"
 
 [[files]]
 file = "emotes/Proxima Creature.emotecraft"
-hash = "083aa2db244da11c34bb5fdb362f9ab499839647b281a37056b4e1dad49f3614"
+hash = "d44fcaa50d275d50b613e25154f2d9d58f425d825403fe992eb0640dfbe3529d"
 
 [[files]]
 file = "emotes/Riding nothing.emotecraft"
-hash = "6802b7a9055707b6bf66b2b6446bb7211370376ca557b1373ae07e38edcf25cc"
+hash = "02f282aca5d68fcab5cf53e4abe6a103a1e6e172b054fe6d73bdc3c0c93e0495"
 
 [[files]]
 file = "emotes/Showing suit.emotecraft"
-hash = "118f9ea44e99aefa3f825015ec1296b46d17ad3ee61c35eae15e4ecf4c7feeaf"
+hash = "bb934da67aff46af53c3a745d9f36ecceb181bfe51c2919ce2d872a7bef3118b"
 
 [[files]]
 file = "emotes/Twerk.json"
-hash = "2fb9fcebee765eb561199508b5f1c7381e54cad8b132eb65e345f31006b91970"
+hash = "5992d05b6f0b7cd9f532a1c85fcd61e438cb96d5bd14ae07bdb07bcdc01c4954"
 
 [[files]]
 file = "emotes/Yamcha.emotecraft"
-hash = "7f7cab6aa8bbeb894c807d888d0bfd0855ea758b6e14caf905e14b967657135c"
+hash = "f30e69967e80a6b9411263e1b50cac18665ede3f633957f6b528bd5f75d5583a"
 
 [[files]]
 file = "emotes/bend_sit.json"
-hash = "39d0c184249829bee1d94292748c5c7877e50da8767b42d44319164000ffd38f"
+hash = "f9c0e1c24ba623da2e639c28891915060aa43043d91def45715ed66b890e0be0"
 
 [[files]]
 file = "emotes/bow1.json"
-hash = "b4fda1c66eb925f5c7a398eec5c5d2356334b651309f4c460bdee435264f9678"
+hash = "ef80b14f43a935ca1e8943051305e27933183f1a3830f882886925ce6995faa1"
 
 [[files]]
 file = "emotes/bow2.json"
-hash = "13f324f7bf7548f4479c4ebd06ab651250ffcfb838cfe65478e77a1cc6eafec9"
+hash = "107bde05ac7ae5183f0aa8391ded624460690ac34abeed529954c95c172f1af6"
 
 [[files]]
 file = "emotes/campfire_sit1.json"
-hash = "21f0870a3db57d9db4442bc96cd3d0f275b940e311b58f99c3644420fb57f188"
+hash = "f5edceea6fb92a83ec6683b37683d084219431624fc0c7044d3bfc3c6155b653"
 
 [[files]]
 file = "emotes/club penguin dance.emotecraft"
-hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
+hash = "3b4376c23cfa3bef8b408f681bb6002b908483a61add4386964ec2b84fcd9f0f"
 
 [[files]]
 file = "emotes/cool sit.emotecraft"
-hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
+hash = "42dbfae4c3f838dbc1d67ac22ebcf119f21c2bb9cd688114dfc597c106572aec"
 
 [[files]]
 file = "emotes/cross.json"
@@ -150,15 +150,15 @@ hash = "5b7a997c01df8cc4e6fee0447956e7553899316af632b65145a98d81877d919f"
 
 [[files]]
 file = "emotes/dab.json"
-hash = "f30e429e892b16311593d595b7c8fa10cade0561a742f4ba2aa1693472fdc76e"
+hash = "796c51d34c6c34ce3408be9fb722909ec8eaabee10435d1af9de56be312051cd"
 
 [[files]]
 file = "emotes/do_eternal_rest_and_respawn.json"
-hash = "aa9f8d6ca98dcbaca21ff365e6c382c69c9a98751c834bb80ffe834fafe2b747"
+hash = "defa9ee6e5b3972176c5cbd1ba7935bf897ad45329df95f111c0b2b4f0899013"
 
 [[files]]
 file = "emotes/floss.json"
-hash = "20bffc968326f9b0c4748c037ebef14cb8e30070196ea0ecf720b60df2916ba5"
+hash = "62ac16196fa51e5def697ba515e6b18087ed61b4fb408fc79d296836379765f2"
 
 [[files]]
 file = "emotes/floss_dance3.json"
@@ -166,7 +166,7 @@ hash = "c58ff8ebc9ddfb104f954921575cc8ea8bc391d839cb84783ba8a57f3e7c5eea"
 
 [[files]]
 file = "emotes/gangam style.emotecraft"
-hash = "18bef1fa35316b617befb5a96e0be17ed48403d3ddb5557a737e65cfc74a45c8"
+hash = "4790810d72a26c38db729da4ea2bb13b875cf8f05783d2c0f5b15136c8dface5"
 
 [[files]]
 file = "emotes/grace.json"
@@ -182,7 +182,7 @@ hash = "dc3b8be9ff5eb29ba9cb4967da12efcd8630434902ea8e6e087c7a5951b943d5"
 
 [[files]]
 file = "emotes/headyeet.json"
-hash = "70bde525c1f074ef9158a2ee64df064dc236535d2231a6753b58c6e9a33799c1"
+hash = "029221d5b335b8021a0ecf513e17bdd8130517b35d8d96e200e2664307968f87"
 
 [[files]]
 file = "emotes/heart.json"
@@ -198,11 +198,11 @@ hash = "d1bb293d36d004fc728ed9c1cfefe238e84e77cbe8afa53f387eaae52f6b1531"
 
 [[files]]
 file = "emotes/hunchback.json"
-hash = "e521ed5634aa953333ac1db2d556d57b9df80b4128186b51946f6802e3ab6424"
+hash = "06106a6a60f7dad4a26ed4da322606721fa4d0063ba6c048ba67e5d1e410c735"
 
 [[files]]
 file = "emotes/into_pieces.json"
-hash = "6f2f7ba1a8b29b14c5a6b2e66a1c2d4f293e942c2586b9d476e6509b829b25eb"
+hash = "40632591dcbb5223cfc65692350d26e6c0e5d7bf2c1eb01caeacc86bf17e942f"
 
 [[files]]
 file = "emotes/item.json"
@@ -210,19 +210,19 @@ hash = "1f6a20861a087420f452da13b13423856e64aea3a4494e06c98d2feaf1b0e6bd"
 
 [[files]]
 file = "emotes/jump.json"
-hash = "6caf2f98732ad6c2aa088d8c7fe6f6b09257661298979698397e73d9cd152ef7"
+hash = "a786053aac991ba4dfdc9ea3bfafbae326c12f7e8214dc63b11c4357f8b316a6"
 
 [[files]]
 file = "emotes/jumping jacks.json"
-hash = "65714e9dc6f46da3045aa346abb4022cd81f6014c04e3a7b586f188178faa6ee"
+hash = "c270ccb18d6906cabfe085de66f32b7ec985db7f0e996e796581ac8b6c80f4c9"
 
 [[files]]
 file = "emotes/lay_down5.json"
-hash = "c4d18b8359744e348641ac8a9bd115edd25921d3040c5ff361dcf78acf786840"
+hash = "263ef58a14c9cb3bab68f3bc925924bf30fd4ac6c20ece7608241b9480a042fa"
 
 [[files]]
 file = "emotes/lean.emotecraft"
-hash = "7f350aea4553ad0ddbd4296c430a24a0e93361c8653a03bd7b2604d1fec052bf"
+hash = "2d024c71ef86746a41302dc5ffa2a9da68baa5e388728b38cea3315dd8c67230"
 
 [[files]]
 file = "emotes/lejat.json"
@@ -230,11 +230,11 @@ hash = "19a3bab49b843d6692e443c9501fd475b2d1c59fe4e3c9d68965dd99810563d1"
 
 [[files]]
 file = "emotes/lookaround.json"
-hash = "77bb9f6ab288eae6c1afe2a5a115482ea25e6e540670e3c7faca5e11d361fe2b"
+hash = "7846b1ebf5e4ddf1194a33a691026a5331dc3ddaeb085b4892250a91d2d1aca6"
 
 [[files]]
 file = "emotes/lying on side.emotecraft"
-hash = "1505b2e5984883b4775c4be0695fb6b41eaa265e8f6c6d589d1904b18d5b97e4"
+hash = "eabb4c421b9b6e376994f8d98376bc41db30a9f6a8349762aad1cdbd66ae4564"
 
 [[files]]
 file = "emotes/make_gestures.json"
@@ -246,7 +246,7 @@ hash = "d8f546d1ad3d567e3f93d5ae15b525c922bcde7fae1559436acd1e2b1fdd4909"
 
 [[files]]
 file = "emotes/meeting.json"
-hash = "44a5f6ff0fa3d455a78d9a9058d204356090f9542a67e76bd16d9499ef230e29"
+hash = "7050478134c1eba3aeb34f09bfdd4f3e2552d12a92b15e5a07206b4065a7b37d"
 
 [[files]]
 file = "emotes/narutonew.json"
@@ -254,11 +254,11 @@ hash = "564f870144a63e0adda2f93ae5da68410a0fbdc7a718909291e6d5d7a97bb5c3"
 
 [[files]]
 file = "emotes/nervous.json"
-hash = "7fd37c4a3120d3b76e0ec711e9c7efeca6ccae2fb33125f06c8fdd2530dbef5c"
+hash = "99e7b00d400f889d75708825b332743948124a5af839a4b9a308aa22449978d9"
 
 [[files]]
 file = "emotes/orange justice.json"
-hash = "9fc76c73bcfc65e08d34eeb5be18ebd9c348f87559007127d7e09b0f6c5e8395"
+hash = "5223089785fe23a050863a8c4b3066eb9a2741d954388897f8a92b60c31a9119"
 
 [[files]]
 file = "emotes/penguin.json"
@@ -266,11 +266,11 @@ hash = "0719a6d4e593ace446e2001658674424bff1965790877861939d39ee49bd360d"
 
 [[files]]
 file = "emotes/piglin victory dance.emotecraft"
-hash = "018bb8303d9de9ebf12b45bdcda2784b9f57b9b9dd530e5cab548b7c098b0dbd"
+hash = "5cc1728b22961a813c10d266ffb9e53eeb0d0d3795a4d241f6e99354b886d556"
 
 [[files]]
 file = "emotes/selfie.json"
-hash = "8854e458a2b2f021b394ca9c64d9c6e6f993a89bd79bc09a33525dd72830ffa0"
+hash = "d29e5dc3e57fc1137944c8992bd03c151cb3fd8c3a5b96afe74c0b7a292a4be2"
 
 [[files]]
 file = "emotes/shake.json"
@@ -278,23 +278,23 @@ hash = "b245cf659e58d5c7906719c01b701d4e0d26f7e495bfe9d3d299edf8025d76d8"
 
 [[files]]
 file = "emotes/sit.json"
-hash = "1e5940f16afc3822a00d3a99da1c70c26e2de47eae5110189c20bee3e9ebc4ad"
+hash = "308962672ec6d5a87163f3d7795ddf4e09e92e7e26279ba96f70f4de672968be"
 
 [[files]]
 file = "emotes/sitting.json"
-hash = "4b31fc18d89b38cb17cb41629cb59471c70c68cf5d6cea544a3598a6c5e6e794"
+hash = "0a2847d106ee71a7b1c5a536185131fa514db1a568617abeb79322c62e30de09"
 
 [[files]]
 file = "emotes/take the l.json"
-hash = "8a41337862388ff29b436a74a8eec7828ea05afdd0efe14d3f9040a45598ff2a"
+hash = "0ffe12b24474577cbe6abb3ed0930752d7fccb79dd3901f017468bcc42aed9ee"
 
 [[files]]
 file = "emotes/the_dab.json"
-hash = "5961c69156ee8b35a83bc9e91f4fff91792289009414525279b85ea836552602"
+hash = "ddef4625f58f0f16f4bffc8056220f7ae7f4ceeb613dfea1fc3345919ea506f0"
 
 [[files]]
 file = "emotes/tpose.json"
-hash = "e81cd74ece1639d5d8dd2077c39f2de0a1880ce1d2aafa0fe7b51641aa40ab94"
+hash = "e796844e23528b427ff7fb9c10c7300c754f07b09dfb9a768b5bd44c924e3590"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
