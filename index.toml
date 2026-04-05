@@ -459,6 +459,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "356457a2271da11c38fad417a809518df6eb68b4acede6bc2c16932e2807a215"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "62b4398ba178efecba4aced610039b1003a8cc82ce5931e3fe0f6541f69a6870"
 metafile = true
