@@ -484,6 +484,11 @@ hash = "e16c6b73d3c5cef51c29ff65c0f5823d4d07b80f0735eee350a9a07518d3d204"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "a761f8d4e0fa1d803fee767215fefeedefc75120667e47bf7a5e1c2714542b59"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "acfe3334806f51af695755a79214b6ba646674038db963b8ef4c8ce99488ece0"
 metafile = true
