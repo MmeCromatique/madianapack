@@ -1,0 +1,8 @@
+name = "wawo-r"
+filename = "warping_wonders_v3-6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Ti3HhdE/versions/3QHq24lD/warping_wonders_v3-6.zip"
+hash-format = "sha256"
+hash = "0d9bda2dfbea7c425c83b7c4b16603344f17861a9d845b72b2cdcd7ee8adb4c7"
