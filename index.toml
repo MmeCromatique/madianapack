@@ -334,11 +334,6 @@ hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
 metafile = true
 
 [[files]]
-file = "mods/better-server-packs-fabric.pw.toml"
-hash = "7f6d2e1e3376c5e569117009b8400ebadcdedb0944526f6b4398739b34b906b6"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "29be6fd74f960ca0d9e7015ebae1f83f629703bafa6bee8ab30e7504193ff24f"
 metafile = true
