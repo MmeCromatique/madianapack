@@ -349,6 +349,11 @@ hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "d764a7670590b9d268c6fcf698c4a4ee9f68845079467e0dc62251420457eb66"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "02828b2aa206fef8d3ab65097624e14712878bed28eff738e4c9a6f311ac5d91"
 metafile = true
@@ -451,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "62b4398ba178efecba4aced610039b1003a8cc82ce5931e3fe0f6541f69a6870"
 metafile = true
 
 [[files]]
@@ -581,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "b99a7098a4c9c1af146ee77d42a5a7442673052e023bb4971f2be5f1292da481"
 metafile = true
 
 [[files]]
