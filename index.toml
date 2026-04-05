@@ -534,6 +534,11 @@ hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
+file = "mods/no-creeper-grief.pw.toml"
+hash = "5013f637c110bdce7bb8dfbacc23b40a871535177083e4c8b7e7a1569258855d"
+metafile = true
+
+[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "2c08bbdf7dc74bb0c6775311ecca268dae129e4573a2102a651da48fa4fe311d"
 metafile = true
