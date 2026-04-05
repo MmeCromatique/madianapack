@@ -684,11 +684,6 @@ hash = "f0f0e9d8e791b3ef51245d25e6b613624f914b146e2f862215074482be74a7c1"
 metafile = true
 
 [[files]]
-file = "mods/warping-wonders.pw.toml"
-hash = "80fefbad16134d09fabab9e0b06e4a814908de126c51792c48cdb342086988b5"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "ff6d016f5b831fa4f317cb4c465167a58fb3c437fa9e2dd504df62a9cd76ddbf"
 metafile = true
@@ -746,11 +741,6 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/required/polymer.pw.toml"
 hash = "6991d85deef2fb9d7edec81d27717c5d6d3fd337d38ff8dc1639eccf2f2ebbdb"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/wawo-r.pw.toml"
-hash = "b7998319dfe67f4ee9ee4351133d54f22015bb175cf76299209b6be5efed5cf7"
 metafile = true
 
 [[files]]
