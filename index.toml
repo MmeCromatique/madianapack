@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "c5852abf53acedfc29f61c7617fa38a7a3f52cf21ecd299cd4374e1f7437b7c7"
+hash = "ff01cd0cb0679160bccfd24b13f5c392bb63780ebd8624042f2604a926c65d93"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/modern-mizunos.pw.toml"
-hash = "d33f6a68dba40bfcf977ba2ef9351ee0ef6ce0d096b46d182a67db03e7709329"
+hash = "4fdc0fd1d1babe20b9a0763fb61c7d375515e26ee0981cd4a768827f279e5a41"
 metafile = true
 
 [[files]]
