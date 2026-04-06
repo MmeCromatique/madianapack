@@ -1,8 +1,8 @@
 name = "modern-mizunos"
-filename = "2 Modern-Mizunos-v0.5.2.zip"
+filename = "Modern-Mizunos-v0.5.2.zip"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/scl/fi/64u2nd5ts072nuz0av7k4/Modern-Mizunos-v0.5.2.zip?rlkey=sfjw0o5b95bux4hg9vktjmt7i&st=bs3eoqr1&dl=1"
+url = "https://www.dropbox.com/scl/fi/64u2nd5ts072nuz0av7k4/Modern-Mizunos-v0.5.2.zip?rlkey=sfjw0o5b95bux4hg9vktjmt7i&st=5ruw5bu4&dl=1"
 hash-format = "sha256"
-hash = "068d1d0b4f30982ee2753056a983b35de970f9db86c2f17cc693205763064f84"
+hash = "1e7f0d62512f1092bfebc4c2b000827bd33540c179811c68fb33639f2e889ee2"
