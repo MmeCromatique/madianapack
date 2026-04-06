@@ -429,6 +429,11 @@ hash = "c7591ee366f9b0e5744de7e8c2ec53aeaf6e144fdded761279ad84abf8542285"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "5f3716f1cd416f0ba0660abcb7907fc965d5f1cad74d023cc07ed324d39105d0"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "ff52d093b7eb904e076efac1a26971eaa408d6bcbc2f2faefc762e436743f1de"
 metafile = true
