@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/horse-statistics.pw.toml"
-hash = "b4d04313f64500f4b57de3c79e7e0256754a59a8f5ac4d6aebd7ae73c19676fe"
+hash = "ced4e20abb45745e5db96d5465498cf53a7b40b37f7cd62401ad83cede658880"
 metafile = true
 
 [[files]]
