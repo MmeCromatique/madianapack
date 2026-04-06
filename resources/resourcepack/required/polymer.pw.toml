@@ -1,8 +1,8 @@
 name = "polymer"
 filename = "0 resource_pack.zip"
-side = "client"
+side = "both"
 
 [download]
-url = "https://www.dropbox.com/scl/fi/5ksgk3q7wcafasozvc43v/resource_pack.zip?rlkey=2i56hktpcerful85brtx320fz&st=0f3n0p8y&dl=1"
+url = "https://www.dropbox.com/scl/fi/35xrifg2dj7jtvqsb7ypq/resource_pack.zip?rlkey=x7iwwvq1hzc428lp2u9olw2fn&st=833oaxwq&dl=1"
 hash-format = "sha256"
-hash = "2a74f34604bace7fdeb94091acc5cb54ee0d07775289cb28520501873f3d620c"
+hash = "4c5e2291182b673a4ea998be177d9d69293abda020f7a3dcb8a8d8315e17251b"
