@@ -1,6 +1,6 @@
 name = "Elytra Contrails Mod"
 filename = "elytratrails-1.4.4-26.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dWMHBEAQ/versions/v5c4Xioh/elytratrails-1.4.4-26.1.jar"

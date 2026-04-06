@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-contrails-mod.pw.toml"
-hash = "97c35e58d239549fb3e84467c9239972763a12fc96a9bbad6ba2efe9a0c206dc"
+hash = "19af38c1a52b0b3d3fbb939aa4a536cdd9db3b86ba877ef2754034fb3e3cd476"
 metafile = true
 
 [[files]]
