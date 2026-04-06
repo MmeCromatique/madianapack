@@ -474,6 +474,11 @@ hash = "62b4398ba178efecba4aced610039b1003a8cc82ce5931e3fe0f6541f69a6870"
 metafile = true
 
 [[files]]
+file = "mods/horse-statistics.pw.toml"
+hash = "b4d04313f64500f4b57de3c79e7e0256754a59a8f5ac4d6aebd7ae73c19676fe"
+metafile = true
+
+[[files]]
 file = "mods/image2map.pw.toml"
 hash = "b1d2cc1f8de8bec5ac7f29ffb867216f7ca2b27cdd7ce5369efaf142763fa955"
 metafile = true
