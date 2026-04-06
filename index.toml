@@ -674,6 +674,11 @@ hash = "8def34c20cf0ad78f47ee553382324ed11c09db4b0498ffd1e48f876f7272033"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "8dc9c99dab19d6351b6dc1cf97570892ad1758c10921a31f4500bfe4e1b02ed3"
+metafile = true
+
+[[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "406d21d0bfc0bfd5bca70437ae6f3f8c142a208f88f3b5c7e62e782ba2051dd5"
 metafile = true
