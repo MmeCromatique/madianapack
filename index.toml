@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/modern-mizunos.pw.toml"
-hash = "7e6021c225a416d7721c0734179707eb6deca8e92537a04cf193d3024b64bf72"
+hash = "d33f6a68dba40bfcf977ba2ef9351ee0ef6ce0d096b46d182a67db03e7709329"
 metafile = true
 
 [[files]]
