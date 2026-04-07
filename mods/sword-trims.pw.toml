@@ -1,0 +1,13 @@
+name = "Sword Armor Trims"
+filename = "sword-trims-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7FeSRrUo/versions/i1fDMX3g/sword-trims-26.1.jar"
+hash-format = "sha512"
+hash = "c5c7cbde9de3fd706a007b6d28d7e057749842a144c6ea09e6494667d1bb48f80921ce181defa411857397097ef5a4d60c62c1e274ea6b048e5d5f3210ec07d4"
+
+[update]
+[update.modrinth]
+mod-id = "7FeSRrUo"
+version = "i1fDMX3g"
