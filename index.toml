@@ -404,11 +404,6 @@ hash = "86be9305d2f8355d775b813fac4651c92570f11154d743b098c563725ad65070"
 metafile = true
 
 [[files]]
-file = "mods/copperfire.pw.toml"
-hash = "337d51032453cf15ce94b4faadad1af853e5aeb7e28983bb0a478b91ad7e1ebd"
-metafile = true
-
-[[files]]
 file = "mods/disable-portal-checks.pw.toml"
 hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
 metafile = true
@@ -496,11 +491,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
-metafile = true
-
-[[files]]
-file = "mods/filament.pw.toml"
-hash = "9e517d0da76d1338904a1bc3005a4d0f97c476e8b6ad2d2a0b0f10e49c4ca855"
 metafile = true
 
 [[files]]
@@ -815,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/polymer.pw.toml"
-hash = "af8eaa970d69c0389a5f05c4fa25ab6a96b08bb1e45b075cc62afe747602ae0a"
+hash = "ce77f0d7c4de09f5648af14e9be7bc87021891cc35fff5d8d32e9f8fd84f80e4"
 metafile = true
 
 [[files]]
