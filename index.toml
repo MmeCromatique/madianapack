@@ -499,6 +499,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/flight-enchantment.pw.toml"
+hash = "dcb565c37c323b5c2a98594ffbd6ade703368e5379738c85be31fcb0a5f415b0"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "356457a2271da11c38fad417a809518df6eb68b4acede6bc2c16932e2807a215"
 metafile = true
@@ -556,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b7f33d3d619dd8de71f3cf76971f7217b182e9c36da3fc86248524af5aae563"
+metafile = true
+
+[[files]]
+file = "mods/longevity-enchantment.pw.toml"
+hash = "2bec9bbdc2e63925cba74100ae27742b1c56d00d6ec1b58f25614f1393af3738"
 metafile = true
 
 [[files]]

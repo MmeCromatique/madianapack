@@ -1,0 +1,13 @@
+name = "Longevity Enchantment"
+filename = "longevity-enchantment-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Df6y4lw3/versions/HTy6rKHB/longevity-enchantment-1.0.0.jar"
+hash-format = "sha512"
+hash = "f9ce80eb3ece9caf84fc7d289cc09d3ba04528dc345ac045f5579345f12073828d37bfe7f8860bc37ea7f74a399ada9702542f2d05e6f3996c471ee9093a9b16"
+
+[update]
+[update.modrinth]
+mod-id = "Df6y4lw3"
+version = "HTy6rKHB"
