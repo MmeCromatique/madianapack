@@ -439,6 +439,11 @@ hash = "a214097f59d73453a9ff341a629a0d95b4dcd8a263122293196b77aeb05a8917"
 metafile = true
 
 [[files]]
+file = "mods/enchantments-expansion.pw.toml"
+hash = "efd75e4e3b0493856862145c9c72a4ac8476374faecefd1c3311d338c240366a"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4d2e45eddc1d31e5e1f0c7fc5a949a29b39e64d7a246e0d5a5e2736f5d517d1c"
 metafile = true
