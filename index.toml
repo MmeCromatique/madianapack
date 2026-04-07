@@ -514,6 +514,11 @@ hash = "ced4e20abb45745e5db96d5465498cf53a7b40b37f7cd62401ad83cede658880"
 metafile = true
 
 [[files]]
+file = "mods/htm.pw.toml"
+hash = "7ab2de72a584857a52232aa68072ffed017a24334bbf4a44cd159356ce08aaaa"
+metafile = true
+
+[[files]]
 file = "mods/image2map.pw.toml"
 hash = "b1d2cc1f8de8bec5ac7f29ffb867216f7ca2b27cdd7ce5369efaf142763fa955"
 metafile = true

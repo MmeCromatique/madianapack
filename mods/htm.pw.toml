@@ -1,0 +1,13 @@
+name = "Hey That's Mine"
+filename = "htm-1.2.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IEPAK5x6/versions/a4L62JoR/htm-1.2.3.jar"
+hash-format = "sha512"
+hash = "f28c94c476ca0dee80e785ea23b80eef6d57d946d3a6e250c884e0b915cd312567d9177339b789942a285680590673b6f6cfd683f01b38b0499f0b5619bd25a3"
+
+[update]
+[update.modrinth]
+mod-id = "IEPAK5x6"
+version = "a4L62JoR"
