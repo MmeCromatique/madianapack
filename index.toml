@@ -344,31 +344,6 @@ hash = "fbb95f1f234b60ae745ba25e059b91ec84a100490df1bbed2bd023c920c1446e"
 metafile = true
 
 [[files]]
-file = "mods/carpet-ams-addition.pw.toml"
-hash = "88199953bf9e5bd3e17afd04a2ab56f50806081be15fc464bcb3722b22269e9d"
-metafile = true
-
-[[files]]
-file = "mods/carpet-extra-extras.pw.toml"
-hash = "4a9219bca72c2b55194783019b907d433e6ee1da2ef018d804542a477da502f8"
-metafile = true
-
-[[files]]
-file = "mods/carpet-org-addition.pw.toml"
-hash = "016f5ebd0d389dc80d12da662ffa670fb11220390deeb0c7a822681f9be42e18"
-metafile = true
-
-[[files]]
-file = "mods/carpet-tis-addition.pw.toml"
-hash = "5744b56a958d454adbf2d859355d56a376ad1f70161f75bad53a53c0b513567c"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "08d7f02a719328b6413378ed98be313f7e781adc202d0aacf2788742635097c5"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
 metafile = true
