@@ -734,6 +734,11 @@ hash = "f0f0e9d8e791b3ef51245d25e6b613624f914b146e2f862215074482be74a7c1"
 metafile = true
 
 [[files]]
+file = "mods/withering-enchantment.pw.toml"
+hash = "80a8c124cf2a167c145321ce9ba13480edee211c8994f179821f9c49628fa3a8"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "ff6d016f5b831fa4f317cb4c465167a58fb3c437fa9e2dd504df62a9cd76ddbf"
 metafile = true
