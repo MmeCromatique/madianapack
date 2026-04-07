@@ -1,0 +1,13 @@
+name = "Disable Too Expensive"
+filename = "disable-too-expensive-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K0tLJkFj/versions/slRS1Ify/disable-too-expensive-v1.0.0.jar"
+hash-format = "sha512"
+hash = "fe92d4bb25cfabe4582fa6f9804ba62786cfd7ceaa38a5ced2b0f4f795de65609f98bea4410050d4ae861799b86de747cf5ca2d8c5aec63a04023e3387e41c5b"
+
+[update]
+[update.modrinth]
+mod-id = "K0tLJkFj"
+version = "slRS1Ify"

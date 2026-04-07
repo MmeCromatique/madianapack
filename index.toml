@@ -414,6 +414,11 @@ hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
 metafile = true
 
 [[files]]
+file = "mods/disable-too-expensive.pw.toml"
+hash = "bd5c38735229509186301831f8c9e9a33e579623133a8b93d89142440dd3d7dd"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
 metafile = true
