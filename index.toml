@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/polymer.pw.toml"
-hash = "3e88938a0542d7044a89a6d1c9c0fcaed5ee9d03cba3bcaba6ffe1ebc93a050c"
+hash = "af8eaa970d69c0389a5f05c4fa25ab6a96b08bb1e45b075cc62afe747602ae0a"
 metafile = true
 
 [[files]]
