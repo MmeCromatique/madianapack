@@ -499,6 +499,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/filament.pw.toml"
+hash = "9e517d0da76d1338904a1bc3005a4d0f97c476e8b6ad2d2a0b0f10e49c4ca855"
+metafile = true
+
+[[files]]
 file = "mods/flight-enchantment.pw.toml"
 hash = "dcb565c37c323b5c2a98594ffbd6ade703368e5379738c85be31fcb0a5f415b0"
 metafile = true
