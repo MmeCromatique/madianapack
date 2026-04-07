@@ -1,13 +1,8 @@
-name = "Extra Flowery GUI"
-filename = "6 Extra Flowery GUI.zip"
-side = "client"
+name = "extra-flowery-gui"
+filename = "6 Extra-Flowery-GUI.zip"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UYeecoyN/versions/bjbD34o6/Extra%20Flowery%20GUI.zip"
-hash-format = "sha512"
-hash = "283c30a605abad099c6947d7b9357743680e8af0d2424182a91f74ed51a57377dbedd3a699c0c04aa93269ce8ab5f2fc0d558d88b56148fb5054f2028e7cb520"
-
-[update]
-[update.modrinth]
-mod-id = "UYeecoyN"
-version = "bjbD34o6"
+url = "https://www.dropbox.com/scl/fi/hus9x5ads8k01mpe8hy8i/Extra-Flowery-GUI.zip?rlkey=ru7n8zy3tabregp9x2toejhxu&st=pde1uwl5&dl=1"
+hash-format = "sha256"
+hash = "bb29b2c15b26b28c4d2409a5cf9b851a5657e0d21702b36da92eae9bf3a43995"

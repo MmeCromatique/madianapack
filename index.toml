@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/extra-flowery-gui.pw.toml"
-hash = "d3ce24e80890287c953d73c8e82a519cde48113a1a84c98290743f86c479a987"
+hash = "5fe4d01b8714c0f2dd195c507234b3f078225d8c1f9a0a9563ba23608b7e781e"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/overgrown-flowery-gui.pw.toml"
-hash = "a3e00f55d562695252bf600c18f8b57810276aa5bbf7f442785d2ec54ab8fed8"
+hash = "8eb4a556bea6da1e089960646355a217cf5b529b034e8eca9a3dffb206b65fa8"
 metafile = true
 
 [[files]]
