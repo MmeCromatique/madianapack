@@ -324,11 +324,6 @@ hash = "960a13c6319887ad7bfd3d1081b6f95d34e80543332a109df32971d4dceb660f"
 metafile = true
 
 [[files]]
-file = "mods/bedrock-cauldrons.pw.toml"
-hash = "4bec83356e15e3a893b3eb274cfd6d25eaebf1dca401a456705542e3ceb15599"
-metafile = true
-
-[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
 metafile = true
@@ -629,16 +624,6 @@ hash = "c35c79bb4e593e797ad15f9fa9d967d6391fc5c9c5aa4a947ce1554c02848a7c"
 metafile = true
 
 [[files]]
-file = "mods/polymer-qol.pw.toml"
-hash = "878b24a494c4e6d0783bb2b9f5afecd9c11313caa1ec80ce30216597a79c11e2"
-metafile = true
-
-[[files]]
-file = "mods/polymer.pw.toml"
-hash = "5f2bf7278ae6470e9402e50ee96a729e18a313ad423ddecb7a34930ba9e71c7c"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8be1a7738add7477efe2f0fa53bc13b4b7839f086631d657bcd121a4354041dc"
 metafile = true
@@ -661,11 +646,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "b99a7098a4c9c1af146ee77d42a5a7442673052e023bb4971f2be5f1292da481"
-metafile = true
-
-[[files]]
-file = "mods/silk.pw.toml"
-hash = "e522aad0eb90e59b654a80056f6a5b4609602e2266d307b028930a2ec1703954"
 metafile = true
 
 [[files]]
@@ -786,11 +766,6 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/required/overgrown-flowery-hotbar.pw.toml"
 hash = "619bc57dd0a002c8779d31d378a7e282c3e63a9d33d58b172637945ed89efab1"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/polymer.pw.toml"
-hash = "7ea3cde7ca87c59293246d79c79d37653259899ba3740cecbd7ece81282cc887"
 metafile = true
 
 [[files]]
