@@ -734,11 +734,6 @@ hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
 metafile = true
 
 [[files]]
-file = "resources/resourcepack/required/better-animations.pw.toml"
-hash = "6c90c9bd3aeb8df2217b2e10726b45738e9fdfc44325b275df5eb8fded008f6a"
-metafile = true
-
-[[files]]
 file = "resources/resourcepack/required/extra-flowery-gui.pw.toml"
 hash = "656225a30eadd26123967fa3204aa7494131c8c46470893b6696f01859f26778"
 metafile = true
