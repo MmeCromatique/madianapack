@@ -744,6 +744,11 @@ hash = "6a8aa1c8252fd325847f1cf68cf541d01f7fb48911ee1f330e590cc40bbd1b7e"
 metafile = true
 
 [[files]]
+file = "resources/resourcepack/required/mizuno-connected-texture.pw.toml"
+hash = "d21d6b9b16001871a8c5425fbe9f57ab83517193ff940a53f43634d3adb10e27"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/required/mizuno-eating-animation.pw.toml"
 hash = "eaf29f68e1d25afc789d520470ba4e45a3c6541c0390c67d5c1b208c1a8e06b2"
 metafile = true
