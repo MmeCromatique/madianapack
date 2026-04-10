@@ -734,8 +734,18 @@ hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
 metafile = true
 
 [[files]]
+file = "resources/resourcepack/required/better-animations.pw.toml"
+hash = "6c90c9bd3aeb8df2217b2e10726b45738e9fdfc44325b275df5eb8fded008f6a"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/required/extra-flowery-gui.pw.toml"
 hash = "656225a30eadd26123967fa3204aa7494131c8c46470893b6696f01859f26778"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/fresh-animations.pw.toml"
+hash = "a0ecb454a8cbe2cd5570a8fa6967abe7465ad213e36277ba74ac369e99c6e8e8"
 metafile = true
 
 [[files]]
@@ -751,6 +761,11 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/required/mizuno-eating-animation.pw.toml"
 hash = "eaf29f68e1d25afc789d520470ba4e45a3c6541c0390c67d5c1b208c1a8e06b2"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/mizuno-x-fresh-animations.pw.toml"
+hash = "d08488ecd8d3cd33a639d6759e38fcb1b16fbf97a1935fd9440f14b9eac550f1"
 metafile = true
 
 [[files]]
