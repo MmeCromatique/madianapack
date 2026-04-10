@@ -394,6 +394,11 @@ hash = "aea38afd0bfaaed33a36857a0d7ee21451b24fc4b6192930a02395487edf2698"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "86be9305d2f8355d775b813fac4651c92570f11154d743b098c563725ad65070"
 metafile = true
@@ -741,6 +746,16 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/required/mizuno-eating-animation.pw.toml"
 hash = "eaf29f68e1d25afc789d520470ba4e45a3c6541c0390c67d5c1b208c1a8e06b2"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/mizunos-connected-glass.pw.toml"
+hash = "897f815a824e9f37b0aa60c92acdaba1f45a189f64bbf15155cc320746b11cca"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/mizunos-fox-variants.pw.toml"
+hash = "8b091d0abf390192c7779ed6a0ba7aa2c1d96f7d41b89290d8b05b36e378eaa8"
 metafile = true
 
 [[files]]

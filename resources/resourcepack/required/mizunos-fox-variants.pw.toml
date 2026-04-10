@@ -1,0 +1,13 @@
+name = "Mizuno's Fox Variants"
+filename = "9 Mizuno's Fox Variant's.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3jmUC9zJ/versions/nVuwMbxH/Mizuno%27s%20Fox%20Variant%27s.zip"
+hash-format = "sha512"
+hash = "460ede339eb80dea7279c787ef5603255875be4123f1097754bca7f97982db5e2dc1abb795d2133ad1488dd5fd7b18382f74917fe25ced80439fb42b3a267014"
+
+[update]
+[update.modrinth]
+mod-id = "3jmUC9zJ"
+version = "nVuwMbxH"
