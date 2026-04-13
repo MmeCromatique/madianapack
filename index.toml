@@ -479,6 +479,11 @@ hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
+file = "mods/fast-minecart.pw.toml"
+hash = "df042991652cbb00c740b7f3e5b3a167be21fadcc1fceee7f21c1efd270a9c4d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
