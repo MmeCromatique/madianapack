@@ -649,6 +649,11 @@ hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
 metafile = true
 
 [[files]]
+file = "mods/shear-item-frames-continued.pw.toml"
+hash = "92e314d4ca3d36d1a2222e057d5075e10d890eefb59284ecd8af81addfcd0176"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "b99a7098a4c9c1af146ee77d42a5a7442673052e023bb4971f2be5f1292da481"
 metafile = true
