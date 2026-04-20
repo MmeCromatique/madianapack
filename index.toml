@@ -734,11 +734,6 @@ hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
 metafile = true
 
 [[files]]
-file = "resources/resourcepack/required/even-better-enchants.pw.toml"
-hash = "2abcd1e7889f0eefb451bb8d91cb0883ee26240acd8d32787f3c6d510a32032a"
-metafile = true
-
-[[files]]
 file = "resources/resourcepack/required/extra-flowery-gui.pw.toml"
 hash = "d224317a047fd89b30c4fb436ca76735c0ad490a21ff22d915ff192ec733d7fb"
 metafile = true
@@ -746,11 +741,6 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/required/fresh-animations.pw.toml"
 hash = "70fc7bc678adb9122f3aea1e35b075f4d918b8c8b344ad57a00429e2f3fcefb3"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/lullabys-enchantment-artwork.pw.toml"
-hash = "57dd63d9fe79e365c755df89184795f22728e2b57f39f4ba9bf2612b6e507393"
 metafile = true
 
 [[files]]
