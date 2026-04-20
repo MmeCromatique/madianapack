@@ -694,11 +694,6 @@ hash = "fbe51395401ce68d9933a65fbcb4ed8cda82ac88d4afd79a5740116114d15949"
 metafile = true
 
 [[files]]
-file = "mods/spiders-2.0-polymer.pw.toml"
-hash = "127a3785cee77bbd008aa0ab78b4b374f40b6ac589fb6ec085cdfa751b929369"
-metafile = true
-
-[[files]]
 file = "mods/sword-trims.pw.toml"
 hash = "64ef4585faf7f87bde1ec001106c68dc8359b4df610ab585548dd0a6c9770a95"
 metafile = true
@@ -730,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "ff6d016f5b831fa4f317cb4c465167a58fb3c437fa9e2dd504df62a9cd76ddbf"
+hash = "ea790ae84dcaffeb4814a6c1d7710e3b553d17fe75fb893296b49333d9a45d59"
 metafile = true
 
 [[files]]
