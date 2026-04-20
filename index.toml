@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "df55885cd64ed2280a127396fa276cb45920dc470f46dad70f6af20fb15ff158"
+hash = "d5eebc53599947abe974527747cb50da9381469d5dd5034eca576800a0be2087"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
