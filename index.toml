@@ -735,67 +735,62 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/extra-flowery-gui.pw.toml"
-hash = "656225a30eadd26123967fa3204aa7494131c8c46470893b6696f01859f26778"
+hash = "d224317a047fd89b30c4fb436ca76735c0ad490a21ff22d915ff192ec733d7fb"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/fresh-animations.pw.toml"
-hash = "a0ecb454a8cbe2cd5570a8fa6967abe7465ad213e36277ba74ac369e99c6e8e8"
+hash = "70fc7bc678adb9122f3aea1e35b075f4d918b8c8b344ad57a00429e2f3fcefb3"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/mizuno-better-leaves.pw.toml"
-hash = "6a8aa1c8252fd325847f1cf68cf541d01f7fb48911ee1f330e590cc40bbd1b7e"
+hash = "0e028d60bfe48d6125841e007f9490a2c8b7e765b4c6dd3a031d1e0b14e66b4e"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/mizuno-connected-texture.pw.toml"
-hash = "d21d6b9b16001871a8c5425fbe9f57ab83517193ff940a53f43634d3adb10e27"
+hash = "f7d6bf157ec89a166b2d580664f5e6459e0b185cb83da44d3a5348b8c3a61c25"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/mizuno-eating-animation.pw.toml"
-hash = "eaf29f68e1d25afc789d520470ba4e45a3c6541c0390c67d5c1b208c1a8e06b2"
+hash = "99fcf96d3e838320dff29174add59db6d6af2103b02599d54b10c9338ee8adfe"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/mizuno-x-fresh-animations.pw.toml"
-hash = "d08488ecd8d3cd33a639d6759e38fcb1b16fbf97a1935fd9440f14b9eac550f1"
+hash = "9aac473d15173864797b0ebff1107df1606e2d72fae529643b2d2bb35ac32695"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/mizunos-connected-glass.pw.toml"
-hash = "897f815a824e9f37b0aa60c92acdaba1f45a189f64bbf15155cc320746b11cca"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/mizunos-fox-variants.pw.toml"
-hash = "8b091d0abf390192c7779ed6a0ba7aa2c1d96f7d41b89290d8b05b36e378eaa8"
+hash = "3eb6c1c250d07e514c513cae09da30ce4f25a5343e48255dad31729cccf55d29"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/mizunos.pw.toml"
-hash = "d2ea78318f587fce25b85ec6b6d8cff6c361cebcd56e3ca84d2a2e751a72f224"
+hash = "293e1ee72c85a104984071ac6ee276432e879d5e9847116274bad6b4007cee34"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/modern-mizunos.pw.toml"
-hash = "4fdc0fd1d1babe20b9a0763fb61c7d375515e26ee0981cd4a768827f279e5a41"
+hash = "837c121a2dfd41f8f4e3610f16d7936a7307ae3322503ece1d3004873d6ccc18"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/overgrown-flowery-gui-sunshine-hunger.pw.toml"
-hash = "5f6b0fd4921df34a30193fd21fe2f9716440387e2da3e2d8d634e3bdaaf08e13"
+hash = "d2b73bcd49ed0f706deefbad3b76a50e62cf4dbbdf090a61ac9555499ae8c5cc"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/overgrown-flowery-gui.pw.toml"
-hash = "bafdb86b0eeba03b02654ab37f0802e18c0a93c4b95829f5e7959b6d932195af"
+hash = "5adcc824710e00ad0beb2c7319c52995b81893568d65f8e9f6581d738b8e3f7f"
 metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/overgrown-flowery-hotbar.pw.toml"
-hash = "619bc57dd0a002c8779d31d378a7e282c3e63a9d33d58b172637945ed89efab1"
+hash = "79a0cbe3aed0aee6c203c9898660f39293e29f6e897b2f1f6d2930169525eb9f"
 metafile = true
 
 [[files]]
