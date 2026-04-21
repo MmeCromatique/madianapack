@@ -738,13 +738,23 @@ hash = "96c75aa9280fb3704a4c729b1b1a03d0660af2848455db627e3bdf84170f3f25"
 metafile = true
 
 [[files]]
-file = "mods/voxelmap-updated.pw.toml"
-hash = "f0f0e9d8e791b3ef51245d25e6b613624f914b146e2f862215074482be74a7c1"
+file = "mods/worldedit.pw.toml"
+hash = "ea790ae84dcaffeb4814a6c1d7710e3b553d17fe75fb893296b49333d9a45d59"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "ea790ae84dcaffeb4814a6c1d7710e3b553d17fe75fb893296b49333d9a45d59"
+file = "mods/xaero-zoomout.pw.toml"
+hash = "2edfa5f39725d7685fb6ca8031793c8c9e1d78ab56bed1e234dff6f17407e05a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "acd39ee795cc2f8beb4ce74d6d3a3397b243700264c24aa3a4e00176edf5e91c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d0adfdccae161834f8148749eec0cdef8047d34d042443ad7e24653268da948f"
 metafile = true
 
 [[files]]
