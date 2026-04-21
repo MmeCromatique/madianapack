@@ -1,13 +1,13 @@
 name = "Mizuno x Fresh Animations"
-filename = "012 Mizuno x Fresh Animations 4.6.zip"
+filename = "012 Mizuno x Fresh Animations 4.7 beta2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DCF67rmr/versions/omaLleU2/Mizuno%20x%20Fresh%20Animations%204.6.zip"
+url = "https://cdn.modrinth.com/data/DCF67rmr/versions/hRFznm0o/Mizuno%20x%20Fresh%20Animations%204.7%20beta2.zip"
 hash-format = "sha512"
-hash = "c868f4d666a5f9f5c29d053454bb174b00d1a0934cade47ee7aa26e7d68abfcef4c279a8c3377cb3db1ae03afdf4caab36cd9f8afab034e0507d97f469888425"
+hash = "ce92bac422b71c61a3d51fa4a788d7cb3c4eca90ba93dc64709e36d169bddd281ac6e48229443a8e1d99aad46d04564b709725b471fc94374722454d49ec5e01"
 
 [update]
 [update.modrinth]
 mod-id = "DCF67rmr"
-version = "omaLleU2"
+version = "hRFznm0o"
