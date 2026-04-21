@@ -404,6 +404,11 @@ hash = "d2b576fa3b996fba4c7fd01ee05539e1952648fe0c066e02c640cedfb138d3dd"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "584c7993ae4821a0d3819427d613e015c6d5c1cb1421c70d4e911d9ad0fc5853"
+metafile = true
+
+[[files]]
 file = "mods/disable-portal-checks.pw.toml"
 hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
 metafile = true
@@ -641,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "a7d05265861381dd5dce1e9d9440c9cf0e2b5fc1799c6ade852cccd48ea0ae6c"
 metafile = true
 
 [[files]]
