@@ -13,6 +13,10 @@ file = "config/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
 hash = "b9eed20cf77c3c13d9bb8463c98749ca4dcaa27ad8330bf7931848ac770431de"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "896c209adbd33a39b475e069447f3c90cdcd59248ddc62637eb4726e3a169709"
+
+[[files]]
 file = "config/iris.properties"
 hash = "6663700cdd8dbeddfcf59461e001788af7532fd6e511a62b7addd1f636fcaea2"
 
@@ -534,6 +538,11 @@ hash = "e16c6b73d3c5cef51c29ff65c0f5823d4d07b80f0735eee350a9a07518d3d204"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "1f521891e40a88e0b500c97a9da7c2a79078a0ab6067a52139bce1fc7e36176b"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "a761f8d4e0fa1d803fee767215fefeedefc75120667e47bf7a5e1c2714542b59"
 metafile = true
@@ -551,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "7f567b9ee49225f433bd3588e1fec3a41c12b763b577ed3cd3a49bc651c91ec8"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "4d58a0dbb57d1a0c99bee80c14bb074b9eb7ee75570f3307a0c093aac18f51bf"
 metafile = true
 
 [[files]]
