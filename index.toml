@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b7b5d17a9d618a5819c2ae0b0d25f2ff1fde4ada6beb14d4cc5221162a1be0b6"
+hash = "6b306404c910f6910bb704132f724f62bb78594e281755b8d3125fe14bce349b"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/horse-statistics.pw.toml"
-hash = "ced4e20abb45745e5db96d5465498cf53a7b40b37f7cd62401ad83cede658880"
+hash = "b4d04313f64500f4b57de3c79e7e0256754a59a8f5ac4d6aebd7ae73c19676fe"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "e1b3d20a2f4495def9905d1ceeb98b150addc389a99259abc52c5d68aa0a4c87"
+hash = "44de8b95afa9b4c72c2123ee2cb853657af538ae6a0405ccc0128dd6d5830b86"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "acd39ee795cc2f8beb4ce74d6d3a3397b243700264c24aa3a4e00176edf5e91c"
+hash = "2777b57c2b92c5faad7a221a3d48fb11a95a202a116f834c51ecf61fc10322e8"
 metafile = true
 
 [[files]]
