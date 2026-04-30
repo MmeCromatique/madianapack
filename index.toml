@@ -553,6 +553,11 @@ hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "0e3ea55d9e42a29bc026e4abe66a4dbe57de18e61127c162a51dad744eb93795"
+metafile = true
+
+[[files]]
 file = "mods/lazyai.pw.toml"
 hash = "907d4d0ac8b8c09af15c20818ce7d6539c7a3733355cce3f78e1e02a4917b0ff"
 metafile = true
